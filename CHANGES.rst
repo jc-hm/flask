@@ -2,6 +2,8 @@
 Version 3.2.0
 -------------
 
+jc test
+
 Unreleased
 
 -   Remove previously deprecated code: ``__version__``. :pr:`5648`
