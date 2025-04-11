@@ -2,7 +2,7 @@
 Version 3.2.0
 -------------
 
-jc test
+jc test 1
 
 Unreleased
 
