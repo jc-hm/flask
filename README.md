@@ -1,6 +1,6 @@
 # Flask
 
-jc foo
+jc foo 123
 
 
 
