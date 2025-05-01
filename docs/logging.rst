@@ -1,4 +1,4 @@
-Logging
+Logging JC
 =======
 
 Flask uses standard Python :mod:`logging`. Messages about your Flask
